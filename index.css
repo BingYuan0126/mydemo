@@ -64,3 +64,13 @@ option {
 #coLcRule{
     background-color: coral;
 }
+
+#result {
+    display: none;
+    width:  350px;
+    margin: 16px auto;
+    background-color:  rgb(53, 53 ,53);
+    padding: 16px;
+    border-radius: 6px;
+
+}
